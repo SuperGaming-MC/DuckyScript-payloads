@@ -1,0 +1,36 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell -WindowStyle Hidden
+ENTER
+DELAY 1000
+STRING Add-Type -TypeDefinition "@"
+ENTER
+STRING using System.Windows.Forms;
+ENTER
+STRING public class MsgBox {
+ENTER
+STRING public static void Show() {
+ENTER
+STRING System.Windows.Forms.MessageBox.Show(
+ENTER
+STRING "Claim a free Patreon membership at:\n\nhttps://www.patreon.com/SG_MC/redeem/E5B5E",
+ENTER
+STRING "Announcement",
+ENTER
+STRING System.Windows.Forms.MessageBoxButtons.OK,
+ENTER
+STRING System.Windows.Forms.MessageBoxIcon.Information
+ENTER
+STRING );
+ENTER
+STRING System.Diagnostics.Process.Start("https://www.patreon.com/SG_MC/redeem/E5B5E");
+ENTER
+STRING }
+ENTER
+STRING }
+ENTER
+STRING "@ -Language CSharp
+ENTER
+STRING [MsgBox]::Show()
+ENTER
