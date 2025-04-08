@@ -1,8 +1,0 @@
-DELAY 1000
-GUI SPACE
-DELAY 500
-STRING terminal
-ENTER
-DELAY 1000
-STRING open https://www.youtube.com/channel/UCGjadmuhyt4qaEMrziL_bZg; osascript -e 'tell app "Finder" to activate' -e 'display dialog "Subscribe to Super Gaming!" with title "⚠️ Announcement ⚠️" buttons {"OK"} with icon stop giving up after 15'
-ENTER
