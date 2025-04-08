@@ -1,0 +1,8 @@
+DELAY 1000
+GUI SPACE
+DELAY 500
+STRING terminal
+ENTER
+DELAY 1000
+STRING for i in {1..100}; do osascript -e 'display dialog "This is a pop up" with title "AD" buttons {"OK"} with icon caution'; done
+ENTER
