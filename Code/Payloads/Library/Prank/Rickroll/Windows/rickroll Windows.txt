@@ -1,0 +1,12 @@
+REM Auther SuperGaming
+GUI r
+DELAY 300
+STRING cmd
+ENTER
+DELAY 500
+STRING powershell -Command "Add-Type -AssemblyName PresentationFramework;[System.Windows.MessageBox]::Show('YOU HAVE BEEN RICKROLLED!','ADD')" & powershell -Command "while ($true) {Start-Process 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'; (New-Object -ComObject WScript.Shell).SendKeys([char]175 * 50); Start-Sleep -Seconds 5}"
+ENTER
+
+
+
+
