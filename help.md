@@ -7,7 +7,10 @@ If you are struggling to navigate this repository, here is a step-by-step guide 
 5. Then you will see folders saying Mac OS and Windows; navigate into one of the folders that match the operating system you want to run the bad USB on
 6. There will be a .txt file; navigate into it and click download
 <img width="1440" alt="Screenshot 2025-04-09 at 16 07 01" src="https://github.com/user-attachments/assets/4a5b4bea-5706-4d26-a07a-82332a58defb" />
+
+
 7. Now you can use the duckyscript file for whatever you like!
+<img width="116" alt="Screenshot 2025-04-09 at 16 19 11" src="https://github.com/user-attachments/assets/7088cff5-3135-4b53-a888-8d4b0bd09bfe" />
 
   (⚠️⚠️IMPORTANT! (Remember, these payloads are only for ethical hacking because it is illegal to hack!)⚠️⚠️)
 
