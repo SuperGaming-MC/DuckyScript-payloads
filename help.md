@@ -11,4 +11,4 @@ If you are struggling to navigate this repository, here is a step-by-step guide 
 
   (⚠️⚠️IMPORTANT! (Remember, these payloads are only for ethical hacking because it is illegal to hack!)⚠️⚠️)
 
-  
+and also the MD is for slower computers so it has more delay in the commands  
